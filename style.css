@@ -71,7 +71,7 @@
 /*home section styling*/
 .home{
     display: flex;
-    background: url("images/Untitled.png") no-repeat center;
+    background: url("images/untitled.png") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
