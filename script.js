@@ -13,5 +13,7 @@ $(document).ready(function(){
       $('.menu-btn i').toggleClass  ("active");
     });
     // owl carrousel script
-    $('.carousel').owlCarousel
+    $('.carousel').owlCarousel({
+
+    });
 });
